@@ -1,0 +1,6 @@
+#ifndef __resource_rc__
+#define __resource_rc__
+
+MAINICON ICON "CardCollect.ico"
+
+#endif // __resource_rc__
